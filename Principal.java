@@ -1,7 +1,7 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-// Clase principal que ejecuta la aplicación de conversión
+
 public class Principal {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
